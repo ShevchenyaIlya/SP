@@ -1,0 +1,6 @@
+﻿  WindowsProject6.cpp
+d:\win api\windowsproject6\windowsproject6\windowsproject6.cpp(179): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\win api\windowsproject6\windowsproject6\windowsproject6.cpp(180): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\win api\windowsproject6\windowsproject6\windowsproject6.cpp(182): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\win api\windowsproject6\windowsproject6\windowsproject6.cpp(183): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  WindowsProject6.vcxproj -> D:\Win API\WindowsProject6\Debug\WindowsProject6.exe
