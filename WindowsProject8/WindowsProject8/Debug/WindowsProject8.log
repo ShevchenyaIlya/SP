@@ -1,0 +1,4 @@
+﻿  WindowsProject8.cpp
+d:\win api\windowsproject8\windowsproject8\windowsproject8.cpp(157): warning C4101: hdc: неиспользованная локальная переменная
+d:\win api\windowsproject8\windowsproject8\windowsproject8.cpp(156): warning C4101: ps: неиспользованная локальная переменная
+  WindowsProject8.vcxproj -> D:\Win API\WindowsProject8\Debug\WindowsProject8.exe
