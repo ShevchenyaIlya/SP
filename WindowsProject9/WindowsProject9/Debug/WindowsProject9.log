@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  WindowsProject9.cpp
+d:\win api\windowsproject9\windowsproject9\windowsproject9.cpp(142): warning C4101: hdc: неиспользованная локальная переменная
+d:\win api\windowsproject9\windowsproject9\windowsproject9.cpp(141): warning C4101: ps: неиспользованная локальная переменная
+  WindowsProject9.vcxproj -> D:\Win API\WindowsProject9\Debug\WindowsProject9.exe
