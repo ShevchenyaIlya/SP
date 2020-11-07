@@ -1,0 +1,3 @@
+﻿  WindowsProject5-Second.cpp
+d:\win api\windowsproject5-second\windowsproject5-second\windowsproject5-second.cpp(175): warning C4101: result: неиспользованная локальная переменная
+  WindowsProject5-Second.vcxproj -> D:\Win API\WindowsProject5-Second\Debug\WindowsProject5-Second.exe
